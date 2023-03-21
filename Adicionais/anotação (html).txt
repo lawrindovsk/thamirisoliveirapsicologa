@@ -1,0 +1,4 @@
+<video autoplay loop poster="images/torres.jpg" class="bg_video">
+	<source src="videos/bg.webm" type="video/webm">
+	<source src="videos/bg.mp4" type="video/mp4">
+</video>	
